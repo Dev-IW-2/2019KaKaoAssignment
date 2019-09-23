@@ -1,8 +1,7 @@
 # 2019KaKaoAssignment
 2019KaKaoAssignment
 
-1. 개발 환경
-
+1. 개발 환경<br>
  (1) 개발 언어 : Java 1.8
  (2) 프레임워크 : Spring Boot 2.1.8 (Gradle)
  (3) 사용 라이브러리 : hibernate-jpa, hibernate-type, javassist, json-simple, gson
