@@ -2,11 +2,11 @@
 2019KaKaoAssignment
 
 <h2>1. 개발 환경</h2><br>
-**(1) 개발 언어 : Java 1.8<br>
- (2) 프레임워크 : Spring Boot 2.1.8 (Gradle)<br>
- (3) 사용 라이브러리 : hibernate-jpa, hibernate-type, javassist, json-simple, gson<br>
- (4) 데이터베이스 : Mysql 8.0.17<br>
- (4) 개발툴 : STS4**<br>
+**(1) 개발 언어 : Java 1.8<br>**
+**(2) 프레임워크 : Spring Boot 2.1.8 (Gradle)<br>**
+**(3) 사용 라이브러리 : hibernate-jpa, hibernate-type, javassist, json-simple, gson<br>**
+**(4) 데이터베이스 : Mysql 8.0.17<br>**
+**(4) 개발툴 : STS4**<br>**
 <br>
 
 <h2>2. 문제해결 전략</h2><br>
